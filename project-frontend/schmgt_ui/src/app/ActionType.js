@@ -1,0 +1,12 @@
+export const GET_ERRORS = "GET_ERRORS";
+export const GET_STUDENTS = "GET_STUDENTS";
+export const CREATE_STUDENT = "CREATE_STUDENT";
+export const GET_STUDENT = "GET_STUDENT";
+export const UPDATE_STUDENT = "UPDATE_STUDENT";
+export const DELETE_STUDENT = "DELETE_STUDENT";
+export const GET_STAFFS = "GET_STAFFS";
+export const GET_STAFF = "GET_STAFF";
+export const DELETE_STAFF = "DELETE_STAFF";
+export const CREATE_STAFF = "CREATE_STAFF";
+export const UPDATE_STAFF = "UPDATE_STAFF";
+export const SET_CURRENT_USER = "SET_CURRENT_USER";

@@ -1,0 +1,10 @@
+.fixed-header {
+    /* Adjust the styles for your fixed header */
+    position: sticky;
+    top: 0;
+    left: 0;
+    width: 100%;
+    
+    z-index: 1; /* Place the header above the background container */
+  }
+  
